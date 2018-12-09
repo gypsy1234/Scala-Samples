@@ -1,0 +1,1 @@
+http://www.scalatest.org/user_guide/sharing_fixtures
